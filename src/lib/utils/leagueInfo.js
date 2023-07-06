@@ -7,8 +7,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Established in 2021, the Make Fantasy Great Again League (MFGA) has captivated the hearts and minds of both friends and strangers alike. Guided by the visionary leadership of Commissioner Dakota and co-founder Zach, the league has become a hotbed of fierce competition and strategic brilliance. Managers from all walks of life bring their unique strategies and tactics to the table, vying for glory and the highly coveted Dynasty Cup.</p>
-  <p>Within the league, diverse approaches are embraced, with some managers prioritizing immediate triumph while others meticulously lay the groundwork for long-term dominance. Despite the ebb and flow of participants, the league continues to flourish, attracting fresh faces and nurturing a sense of community year after year.</p>
+  <p>Welcome to the treacherous realm of Blood, Swear, and Beers, where loyalty is tested, oaths are bound in crimson, and camaraderie is forged over pints of frothy ale. In this legendary Fantasy League, the echoes of college friendships resound as fierce competitors gather to clash on the virtual battleground. Prepare to summon your inner warriors and build your teams from the annals of sporting folklore. From the hallowed fields to the raucous arenas, this league transcends mere sport, igniting a fire within our souls. Raise your mugs high and unleash your passion, for in Blood, Swear, and Beers, the legends of our college days live on!</p>
 `;
 
 /*   STEP 3   */

@@ -96,7 +96,7 @@
 </style>
 
 <div class="constitution">
-    <h1 class="noUnderscore">Make Fantasy Great Again Constitution (WIP)</h1>
+    <h1 class="noUnderscore">Blood, Sweat, and Beers Constitution (WIP)</h1>
     
     <h2 class="noUnderscore">TABLE OF CONTENTS</h2>
     
