@@ -75,7 +75,7 @@ export const managers = [
       "bio": "No bio found... Please provide one to Daniel Ranallo",
       "photo": "/managers/everyone.png", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2007, // (optional) when did the manager start playing fantasy football
-      // "favoriteTeam": "dal", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
+      "favoriteTeam": "kc", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
       "rival": {
         name: "Rival", // Can be anything (usually your rival's name)
@@ -138,7 +138,7 @@ export const managers = [
     {
       // "roster": 2,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "managerID": "979926054443839488",
-      "name": "John Whitworth",
+      "name": "Stephen Strubble",
       // "tookOver": 2021, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Edmond", // (optional)
       "bio": "No bio found... Please provide one to Daniel Ranallo",
